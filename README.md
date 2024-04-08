@@ -8,8 +8,11 @@ Prazer, meu nome é Heitor e atualmente sou estudante de Análise e Desenvolvime
 
 ## 👨‍💻 **Habilidades**
 >[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma&theme=dark)](https://skillicons.dev)
+>
 >[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,vue,php&theme=dark)](https://skillicons.dev)
+>
 >[![My Skills](https://skillicons.dev/icons?i=mysql,postman&theme=dark)](https://skillicons.dev)
+>
 >[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea&theme=dark)](https://skillicons.dev)
 ## 📚 **Pretendo Aprender**
 >[![My Skills](https://skillicons.dev/icons?i=aws,js,pytorch,rust&theme=dark)](https://skillicons.dev)
